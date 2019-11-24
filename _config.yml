@@ -113,10 +113,10 @@ author:
   location         : "تهران"
   email            : fatemehjalalvand14@gmail.com
   twitter: فاطمه جلالوند
-  linkedin: fatemeh jalalvand
-  google_scholar: 
+  #linkedin: fatemeh jalalvand
+  #google_scholar: 
   github: fatemehj.github.io
-  instagram:
+  #instagram:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
