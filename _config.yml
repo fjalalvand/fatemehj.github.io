@@ -112,10 +112,11 @@ author:
   bio              : I'm a university student in iust.I study computer engineering . 
   location         : "تهران"
   email            : fatemehjalalvand14@gmail.com
-  twitter: فاطمه جلالوند
+  #twitter: فاطمه جلالوند
   #linkedin: fatemeh jalalvand
   #google_scholar: 
   github: fatemehj.github.io
+  calendly: calendly.com\/fatemehjalalvand14
   #instagram:
   links:
     - label: "Email"
